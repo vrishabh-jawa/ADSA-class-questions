@@ -7,7 +7,7 @@ public class LinkedList1 {
         ListNode(int x){
             this.data=x;
             this.next=null;
-
+ 
         }
     } 
     public void addnth(int x,int n){
